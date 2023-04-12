@@ -18,5 +18,5 @@
 ###### YOU CAN ME FIND IN
 
 <div>
-  <a href = "mailto:mcf.marques@hotmail.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-microsoft-outlook%2F&psig=AOvVaw1VdnctSsZGTTRU2X77tW4B&ust=1681419382277000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCcweucpf4CFQAAAAAdAAAAABAE" ></a>
+  <a href = "mailto:mcf.marques@hotmail.com" target="_blank"> 📩 HOTMAIL </a>
 </div>
