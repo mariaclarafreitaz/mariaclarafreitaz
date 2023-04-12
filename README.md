@@ -1,8 +1,7 @@
 ## Hi there, I'm Maria Clara 👋
 
-- 🔭 I’m currently working on Mobile App Development
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about everything, I'm a curious person interested in helping
+- 📚 I'm a technology student
+- 💗 I'm very interested in the frontend area
 - 📫 How to reach me: mcf.marques@hotmail.com
 
 <!-- Dark Mode -->
@@ -19,6 +18,5 @@
 ###### YOU CAN ME FIND IN
 
 <div>
- <!--<a href="https://www.linkedin.com/in/caioguge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
-  <a href = "mailto:mcf.marques@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+  <a href = "mailto:mcf.marques@hotmail.com" target="_blank"><img src="![logo outlook](https://user-images.githubusercontent.com/124942909/231583552-6913014a-357e-46ca-b920-bc0e825da961.png)" ></a>
 </div>
