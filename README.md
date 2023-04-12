@@ -1,4 +1,4 @@
-## Hi there, I'm Maria Clara 👋
+## Hii, I'm Maria Clara 
 
 - 📚 I'm a technology student
 - 💗 I'm very interested in the frontend area
@@ -18,5 +18,5 @@
 ###### YOU CAN ME FIND IN
 
 <div>
-  <a href = "mailto:mcf.marques@hotmail.com" target="_blank"><img src="![logo outlook](https://user-images.githubusercontent.com/124942909/231583552-6913014a-357e-46ca-b920-bc0e825da961.png)" ></a>
+  <a href = "mailto:mcf.marques@hotmail.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-microsoft-outlook%2F&psig=AOvVaw1VdnctSsZGTTRU2X77tW4B&ust=1681419382277000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCcweucpf4CFQAAAAAdAAAAABAE" ></a>
 </div>
